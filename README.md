@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in Web Development and App Development
-- 🌱 I know ReactJS, NodeJS, MongoDB, Dart, Flutter, and Java. 
+- 🌱 I know Java, Python, Go, ReactJS, NodeJS, MongoDB, Dart and Flutter. 
 - 💞️ I’m looking to collaborate on Open Source Projects
 
 # Connect with me 🤝
