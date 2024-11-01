@@ -3,7 +3,6 @@
 
 Welcome to my GitHub profile! I'm passionate about both web and app development, and I'm constantly exploring new technologies to enhance my skills.
 
-
 ## About Me
 
 - **Interests**: Web Development, App Development
